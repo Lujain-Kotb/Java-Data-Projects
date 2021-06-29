@@ -21,6 +21,11 @@ public class Main {
         
         System.out.println("String "+longer+" is longer");
         System.out.println("String "+first+" is first");
+        
+        String alpha= "json";
+        String alphanum = "json45";
+        System.out.println("Is "+alpha+" alphabetic only? "+StringUtils.OnlyAlphabets(alpha));
+        System.out.println("Is "+alphanum+" alphabetic only? "+StringUtils.OnlyAlphabets(alphanum));
     }
     
 }
