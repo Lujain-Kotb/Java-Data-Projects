@@ -1,0 +1,6 @@
+com\mycompany\pyramids\Pyramid.class
+com\mycompany\pyramids\PyramidsDAOImpl.class
+com\mycompany\pyramids\PyramidsDAO.class
+com\mycompany\pyramids\Main.class
+com\mycompany\pyramids\PyramidsOperations$1.class
+com\mycompany\pyramids\PyramidsOperations.class

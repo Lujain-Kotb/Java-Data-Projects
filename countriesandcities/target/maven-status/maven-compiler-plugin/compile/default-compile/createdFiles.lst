@@ -1,0 +1,5 @@
+com\mycompany\countriesandcities\Country.class
+com\mycompany\countriesandcities\City.class
+com\mycompany\countriesandcities\CountryIndexDAOImpl.class
+com\mycompany\countriesandcities\Main.class
+com\mycompany\countriesandcities\CountryIndexDAO.class
